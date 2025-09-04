@@ -1,0 +1,8 @@
+pandas
+pillow
+transformers
+torch
+tqdm
+ttkbootstrap
+openpyxl
+
