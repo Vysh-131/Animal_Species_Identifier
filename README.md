@@ -34,7 +34,7 @@ It uses the **EVA02 (inat21 fine-tuned) model** from Hugging Face to classify wi
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Vysh-131/animal_df.git
-cd animal_df
+cd Animal_Species_Identifier
 ```
 ### 2. Install dependencies
 ```bash
@@ -71,7 +71,7 @@ python3 main.py
 ##  Folder Structure
 
 ```
-animal_df/
+Animal_Species_Identifier/
 │── main.py                # Main GUI application
 │── requirements.txt       # Dependencies
 │── LICENSE                # License for code
