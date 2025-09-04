@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ## Model Download
 Due to size, the EVA02 model weights are not stored in this repo.  
 Please download them manually from Hugging Face:  
-[EVA02 inat21 Model](https://huggingface.co/timm/eva02_large_patch14_clip_336.merged2b_ft-inat21)  
+[EVA02 inat21 Model](https://huggingface.co/timm/eva02_large_patch14_clip_336.merged2b_ft_inat21/tree/main)  
 
 After downloading, place the model files in:
 `models/eva02_inat21/`
